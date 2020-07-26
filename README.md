@@ -1,4 +1,4 @@
-### Hi there 👋
+### Front-End Engineer 🛠
 [![Junho's github stats](https://github-readme-stats.vercel.app/api?username=juno7803)](https://github.com/juno7803/github-readme-stats)
 
 <!--
