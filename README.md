@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Junho's github stats](https://github-readme-stats.vercel.app/api?username=juno7803)](https://github.com/juno7803/github-readme-stats)
 
 <!--
 **juno7803/juno7803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
