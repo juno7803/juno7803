@@ -1,14 +1,9 @@
 ### Front-End Engineer 🛠
+안녕하세요, 프론트엔드 개발자 이준호 입니다:)
+
 [![Junho's github stats](https://github-readme-stats.vercel.app/api?username=juno7803)](https://github.com/juno7803/github-readme-stats)
 
-### Using Stack
-- React
-- Typescript
-- node.js
-- express
-- c++
-- python
-
+[![Portfoilio](https://img.shields.io/badge/Notion-black?logo=notion)](https://junoflo.oopy.io/)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://juno-flo.tistory.com//)](https://juno-flo.tistory.com/)
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100004752273237)](https://www.facebook.com/profile.php?id=100004752273237)
 
