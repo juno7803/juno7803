@@ -1,5 +1,5 @@
 ### Front-End Engineer 🛠
-안녕하세요, 프론트엔드 개발자 이준호 입니다:)
+안녕하세요, 프론트엔드 개발자 이준호 입니다 :)
 
 [![Junho's github stats](https://github-readme-stats.vercel.app/api?username=juno7803)](https://github.com/juno7803/github-readme-stats)
 
