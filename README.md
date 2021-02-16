@@ -3,7 +3,7 @@
 
 [![Junho's github stats](https://github-readme-stats.vercel.app/api?username=juno7803)](https://github.com/juno7803/github-readme-stats)
 
-[![Portfoilio](https://img.shields.io/badge/Notion-black?logo=notion)](https://www.notion.so/43b2de72882047f2b29903315d454f18)
+[![Portfoilio](https://img.shields.io/badge/Notion-black?logo=notion)](https://www.notion.so/83339f4ec1c844a8a172917af5e6c3d7)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-blueviolet?style=flat&logo=github&link=https://velog.io/@juno7803)](https://velog.io/@juno7803)
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100004752273237)](https://www.facebook.com/profile.php?id=100004752273237)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?logo=instagram)](https://www.instagram.com/juno_96/)
