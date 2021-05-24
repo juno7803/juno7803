@@ -6,8 +6,7 @@
 👨🏻‍💻 **Front-end Developer**  
 🍪 **[쿠키파킹](https://www.cookieparking.com) 리드 개발자**
 
-
-[![Junho's github stats](https://github-readme-stats.vercel.app/api?username=juno7803)](https://github.com/juno7803/github-readme-stats)
+[![Junho's github stats](https://github-readme-stats.vercel.app/api?username=juno7803&theme=algolia)](https://github.com/juno7803/github-readme-stats)
 
    
 [![Portfoilio](https://img.shields.io/badge/Notion-black?logo=notion)](https://www.notion.so/83339f4ec1c844a8a172917af5e6c3d7)
