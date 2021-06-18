@@ -10,7 +10,7 @@
    
    [![Junho's github stats](https://github-readme-stats.vercel.app/api?username=juno7803&theme=algolia)](https://github.com/juno7803/github-readme-stats)
    
-   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=juno7803&tag=recoil&color=dark)](https://velog.io/@juno7803/Recoil-Recoil-200-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0)
+   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=juno7803&tag=recoil)](https://velog.io/@juno7803/Recoil-Recoil-200-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0)
    
    [![Portfoilio](https://img.shields.io/badge/Notion-black?logo=notion)](https://www.notion.so/83339f4ec1c844a8a172917af5e6c3d7)
    [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-blueviolet?style=flat&logo=github&link=https://velog.io/@juno7803)](https://velog.io/@juno7803)
