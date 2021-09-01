@@ -4,8 +4,6 @@
 
 🙆🏻‍♂️ **Kyunghee Universtiy, CE**  
 👨🏻‍💻 **Front-end Developer**  
-🍪 **[쿠키파킹](https://www.cookieparking.com/landing) 리드 개발자**  
-:lollipop: 핸디캔디 개발자
 
 <div align="center" style="text-align:center">
    
