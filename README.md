@@ -4,7 +4,7 @@
 
 <div align="left" style="text-align:center">
    
-   [![Junho's github stats](https://github-readme-stats.vercel.app/api?username=juno7803&theme=algolia)](https://github.com/juno7803/github-readme-stats)
+   [![Junho's github stats](https://github-readme-stats.vercel.app/api?username=juno7803)](https://github.com/juno7803/github-readme-stats)
    
    [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=juno7803&tag=recoil)](https://velog.io/@juno7803/Recoil-Recoil-200-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0)
 </div>
@@ -12,7 +12,7 @@
 #### 👨🏻‍💻 Working Experience
 - Creatrip Frontend Developer (2021.06 ~ 2021.12)
 - KakaoStyle Frontend Developer (2021.12 ~ 2023.07)
-- Viva Rebpulica(Toss) Frontend Developer (2023.07 ~ NOW)
+- **Viva Rebpulica(Toss) Frontend Developer (2023.07 ~ NOW)**
 
 #### 🚀 Activities
 - 교내 동아리 Return C++ 객체지향 프로그래밍 티칭 멘토
